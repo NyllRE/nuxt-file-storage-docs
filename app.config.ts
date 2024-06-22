@@ -1,11 +1,6 @@
 // https://github.com/nuxt-themes/docus/blob/main/nuxt.schema.ts
 export default defineAppConfig({
 	docus: {
-		mdc: {
-			highlight: {
-				langs: ['sql'],
-			},
-		},
 		title: 'Nuxt File Storage',
 		description: 'Easy solution to store files in your nuxt apps',
 		image:
